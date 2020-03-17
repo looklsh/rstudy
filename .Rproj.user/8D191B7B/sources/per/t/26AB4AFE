@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582527342107.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3866936709",
+    "id" : "26AB4AFE",
+    "lastKnownWriteTime" : 1582533117,
+    "last_content_update" : 1582533117550,
+    "path" : "D:/bitr/rstudy/ex1-rolling-dice.R",
+    "project_path" : "ex1-rolling-dice.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
